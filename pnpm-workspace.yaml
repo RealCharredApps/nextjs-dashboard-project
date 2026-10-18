@@ -1,0 +1,5 @@
+packages:
+  - .
+allowBuilds:
+  bcrypt: true
+minimumReleaseAge: 2880
